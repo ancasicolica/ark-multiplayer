@@ -1,2 +1,2 @@
 # ark-multiplayer
-Enables multiplayer mode for ARK
+Enables multiplayer mode for ARK. Currently only experimential.
